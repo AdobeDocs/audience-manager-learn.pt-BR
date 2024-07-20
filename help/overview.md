@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # tutoriais do Audience Manager
 
-Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) O fornecerá um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o Adobe melhor da categoria [!DNL data management platform].
+Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais, juntamente com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), oferece um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o Adobe best-in-class [!DNL data management platform].
 
-* **Escolhas de pessoal** destaca alguns de nossos conteúdos favoritos
-* Explore o conteúdo por tópico e subtópico no **navegação à esquerda**
-* Use o **pesquisa** na parte superior da página se você souber o que está procurando
+* **Escolhas da equipe** destaca alguns de nossos conteúdos favoritos
+* Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
+* Use o campo **pesquisa** na parte superior da página se você souber o que está procurando
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,11 +43,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=pt-BR">
-    <strong>Implementar o Adobe Experience Cloud com o tutorial do SDK da Web</strong>
+    <strong>Tutorial sobre Implementação do Adobe Experience Cloud com o SDK da Web</strong>
     </a>
     </div>
     <p>
-    <em>Saiba como implementar aplicativos Experience Cloud usando o Adobe Experience Platform Web SDK.</em>
+    <em>Saiba como implementar aplicativos Experience Cloud usando o SDK da Web da Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
@@ -60,7 +60,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
     </a>
     </div>
     <p>
-    <em>Este vídeo analisa as diferenças nos segmentos e na criação de segmentos entre o Audience Manager e a CDP em tempo real.</em>
+    <em>Este vídeo analisa as diferenças nos segmentos e na criação de segmentos entre o Audience Manager e a Real-time CDP.</em>
     <p>
   </td>
   <td>
@@ -73,7 +73,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
     </a>
     </div>
     <p>
-    <em>Neste vídeo, abordamos a configuração de públicos-alvo preditivos na interface do Audience Manager.</em>
+    <em>Neste vídeo, abordaremos a configuração de Predictive Audiences na interface Audience Manager.</em>
     <p>
   </td>
 </tr>

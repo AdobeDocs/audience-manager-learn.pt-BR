@@ -13,13 +13,13 @@ level: Beginner
 exl-id: edad121e-fa6e-4ea8-b99a-6830dd51669a
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Visão geral do [!UICONTROL Profile Merge Rule] melhorias
+# Visão geral dos aprimoramentos do [!UICONTROL Profile Merge Rule]
 
-Este vídeo explica as melhorias feitas no [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
+Este vídeo explica as melhorias no [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

@@ -10,14 +10,14 @@ level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Compreender a interface Taxa de correspondência no Audience Manager
 
-Este vídeo o orienta durante a [!UICONTROL Destination] , mostrando e explicando os números associados às taxas de correspondência e públicos endereçáveis.
+Este vídeo o orienta pela interface do [!UICONTROL Destination], mostrando e explicando os números associados a taxas de correspondência e públicos endereçáveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

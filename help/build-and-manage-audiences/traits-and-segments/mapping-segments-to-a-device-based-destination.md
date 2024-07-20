@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Mapear segmentos para um destino com base em dispositivos
 
-Para enviar um segmento de público-alvo para um DSP ou outro parceiro, é necessário mapear o segmento para um destino no Audience Manager. Este vídeo aborda os segmentos de mapeamento para um destino baseado em dispositivos, também conhecido como _servidor para servidor_ destino.
+Para enviar um segmento de público-alvo para um DSP ou outro parceiro, é necessário mapear o segmento para um destino no Audience Manager. Este vídeo aborda o mapeamento de segmentos para um destino baseado em dispositivo, também conhecido como _destino de servidor para servidor_.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

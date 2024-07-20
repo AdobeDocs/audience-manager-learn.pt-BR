@@ -1,18 +1,18 @@
 ---
 user-guide-title: Tutorials do Adobe Audience Manager
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
-breadcrumb-title: Tutoriais do Audience Manager
+breadcrumb-title: Tutorials do Audience Manager
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
-ht-degree: 3%
+source-wordcount: '895'
+ht-degree: 2%
 
 ---
 
 
-# Tutoriais do Audience Manager {#tutorials}
+# Tutorials do Audience Manager {#tutorials}
 
 + [tutoriais do Audience Manager](overview.md)
 + Introdução ao Audience Manager {#intro-to-audience-manager}
@@ -28,46 +28,46 @@ ht-degree: 3%
    + [O futuro do gerenciamento de dados e do ambiente em mudança](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
    + [10 considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [Os dois lados da moeda - marcas e consumidores](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Evolução do seu centro de excelência de público-alvo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [Criar melhores experiências com perfis de clientes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [Desenvolvendo seu Centro de Excelência para o Público](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Criando melhores experiências com perfis de clientes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configuração e administração {#setup-and-admin}
    + Fontes de dados {#data-sources}
       + [Criar uma fonte de dados para dados do Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [Criar uma fonte de dados entre dispositivos e autenticar](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
-   + Gerenciamento do usuário {#user-management}
+   + Gerenciamento de usuários {#user-management}
       + [Definir permissões com controle de acesso baseado em função](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Governança e privacidade de dados {#data-governance-and-privacy}
       + [Validação de ID de dispositivo global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Suporte ao IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Ofuscação de IP por país](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
-   + Uso e faturamento {#usage-and-billing}
+   + Uso e cobrança {#usage-and-billing}
       + [Monitorar e relatar o uso da atividade](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Implementação da Web {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Atualização para o DIL versão 8.0 (ou superior)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF (encaminhamento do lado do servidor) {#ssf}
-      + [Usar tags Experience Platform para implementar o em sites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+   + SSF (encaminhamento pelo lado do servidor) {#ssf}
+      + [Usar marcas de Experience Platform para implementar em sites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migrar a implementação do AAM do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migração do servidor de rastreamento para o encaminhamento do lado do servidor no nível do conjunto de relatórios](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Usar gerenciadores de tags para implementar o Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Como identificar a ID do parceiro ou o subdomínio](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Usar práticas recomendadas em páginas SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ Integração de dados offline {#integrating-offline-data}
++ Integrando dados offline {#integrating-offline-data}
    + [Formatar e assimilar dados baseados em arquivo](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Etapas para assimilar dados baseados em arquivo](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementação móvel {#mobile-implementation}
    + [Implementar em aplicativos iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementar em aplicativos iOS Objetive-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementar em aplicativos Objetive-C para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementar em aplicativos Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Compra de dados {#buying-data}
+   + Comprando dados {#buying-data}
       + [Relatar uso de dados secundários e de terceiros no Audience Marketplace no nível do segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Uso de dados de upload em massa no Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Use filtros e recomendações para escolher dados de terceiros no Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + Dados de vendas {#selling-data}
+   + Vendendo dados {#selling-data}
       + [Comercializar públicos-alvo próprios no Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Criar e gerenciar públicos-alvo {#build-and-manage-audiences}
-   + Data Explorer {#data-explorer}
+   + Gerenciador de dados {#data-explorer}
       + [Use o Painel de sinais para visualizar rapidamente os principais sinais disponíveis](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Usar o Data Explorer para procurar pares de chave/valor usados e não usados](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
       + [Salve pesquisas no Data Explorer para reutilização conveniente](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
@@ -103,7 +103,7 @@ ht-degree: 3%
       + [Dicas do cliente - práticas recomendadas de características e segmentos](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelos algorítmicos {#algorithmic-models}
       + [Entender públicos preditivos](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurar e relatar sobre [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Configurar e relatar em [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Criar um modelo semelhante próprio](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Excluir características em modelos algorítmicos (semelhantes)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Aumentar o ROAS usando modelos algorítmicos (semelhantes)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -123,7 +123,7 @@ ht-degree: 3%
       + [Compreender métricas entre dispositivos no Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Dicas do cliente - como aproveitar ao máximo as Regras de mesclagem de perfis](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Ativação de dados {#data-activation}
-   + Noções básicas de destinos {#destinations-basics}
+   + Noções básicas de destino {#destinations-basics}
       + [Entender os tipos de destino de Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Entender as taxas de correspondência](data-activation/destinations-basics/understanding-match-rates.md)
       + [Entender a interface de taxa de correspondência](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
@@ -162,5 +162,5 @@ ht-degree: 3%
       + [Entender a governança de dados na Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Integração com o Ad Cloud {#integrating-with-ad-cloud}
       + [Integração do Adobe Advertising Cloud e do Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
-+ administração {#api}
++ API {#api}
    + [Recuperar credenciais de API no Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)

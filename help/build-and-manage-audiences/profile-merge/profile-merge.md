@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ Assista aos vídeos e tutoriais dos recursos de Mesclagem de perfis, incluindo R
 * [Interpretar relatórios de identidade de público-alvo](interpret-audience-identity-reporting.md)
 * [Compreender métricas entre dispositivos no Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Esses vídeos podem ser usados junto com o [Documentação das Regras de mesclagem de perfil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Estes vídeos podem ser usados junto com a [documentação de Regras de mesclagem de perfil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

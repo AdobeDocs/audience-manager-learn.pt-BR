@@ -14,7 +14,7 @@ level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Entenda os principais desafios com a personalização entre canais e como o Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Para obter mais informações, visite o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

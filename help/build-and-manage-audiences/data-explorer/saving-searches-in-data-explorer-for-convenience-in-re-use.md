@@ -14,15 +14,15 @@ level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# Salvar pesquisas em [!UICONTROL Data Explorer] para reutilização conveniente {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Salve as pesquisas no [!UICONTROL Data Explorer] para reutilização conveniente {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-Neste vídeo, saiba como configurar uma pesquisa no [!DNL Data Explorer], execute-o e salve-o para reutilização posteriormente. Você também pode colocar a pesquisa salva no painel para que ela fique imediatamente disponível ao entrar na [!UICONTROL Signals] aplicativo.
+Neste vídeo, saiba como configurar uma pesquisa no [!DNL Data Explorer], executá-la e salvá-la para reutilização posterior. Você também pode colocar a pesquisa salva no painel para que ela fique disponível imediatamente ao acessar o aplicativo [!UICONTROL Signals].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visita [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

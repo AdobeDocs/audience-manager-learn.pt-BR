@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Recuperar credenciais de API no [!DNL Adobe Developer]
+# Recuperar Credenciais de API em [!DNL Adobe Developer]
 
 Em vez de entrar em contato com a Adobe Consulting ou com o Atendimento ao cliente para obter credenciais para usar a REST API, você pode simplesmente acessar developer.adobe.com em um navegador e recuperar ou registrar suas próprias credenciais.
 

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Criar e configurar [!UICONTROL People-based Destinations]
+# Criar e configurar o [!UICONTROL People-based Destinations]
 
-Este vídeo primeiro fornece algumas informações sobre os pré-requisitos para criar o destino com base em pessoas e também mostra como configurar uma conta integrada (link para o parceiro, como [!DNL Facebook]). Em seguida, ele o orienta pela configuração no produto do próprio destino.
+Este vídeo primeiro fornece algumas informações sobre os pré-requisitos para criar o destino com base em Pessoas, e também mostra como configurar uma conta integrada (link para o parceiro, como o [!DNL Facebook]). Em seguida, ele o orienta pela configuração no produto do próprio destino.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

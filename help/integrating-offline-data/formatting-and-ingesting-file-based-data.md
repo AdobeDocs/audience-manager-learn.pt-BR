@@ -13,7 +13,7 @@ level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Ao trazer seus primários para o Audience Manager para melhor entender e direcio
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Para assistir a um vídeo sobre nomenclatura e importação de arquivos, clique em [AQUI](steps-for-ingesting-file-based-data.md).
+Para assistir a um vídeo sobre nomenclatura e importação de arquivos, clique [AQUI](steps-for-ingesting-file-based-data.md).
 
-Para obter informações adicionais, consulte [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

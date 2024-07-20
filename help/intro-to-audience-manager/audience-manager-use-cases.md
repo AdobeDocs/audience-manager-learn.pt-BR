@@ -13,7 +13,7 @@ level: Beginner
 exl-id: b0ed3450-0a0b-4bc3-b579-b57bfea116d7
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Neste vídeo, identificamos quatro casos de uso comuns de Audience Manager e des
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Para obter mais informações, visite o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).

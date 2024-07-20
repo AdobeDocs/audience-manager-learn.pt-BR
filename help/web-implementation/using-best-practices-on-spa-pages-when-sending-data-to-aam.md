@@ -13,7 +13,7 @@ level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Este documento descreve várias práticas recomendadas para enviar dados de apli
 
 ## Diagrama simples do trabalho com SPA e AAM em tags Experience Platform (antigo Launch){#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
-![spa para aam em tags](assets/spa_for_aam_in_launch.png)
+![spa para aam nas tags](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
 >Como dito, este é um diagrama simplificado de como as páginas do SPA são tratadas em uma implementação do Adobe Audience Manager (sem o Adobe Analytics) usando tags da Platform. Como você pode ver, é relativamente simples, com a grande decisão sendo como você comunicará uma alteração de exibição (ou uma ação) às tags da Platform.
@@ -38,10 +38,10 @@ Este documento descreve várias práticas recomendadas para enviar dados de apli
 
 Dois dos métodos mais comuns para acionar uma regra nas tags da Platform (e, portanto, enviar dados para o Audience Manager) são:
 
-* Configuração de eventos personalizados JavaScript (consulte o exemplo [AQUI](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) com Adobe Analytics)
-* Uso de um [!UICONTROL Direct Call Rule]
+* Definindo eventos personalizados do JavaScript (veja o exemplo [AQUI](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) com o Adobe Analytics)
+* Usando um [!UICONTROL Direct Call Rule]
 
-Neste exemplo de Audience Manager, você usa um [!UICONTROL Direct Call rule] nas tags da Platform para acionar a ocorrência que entra no Audience Manager. Como você verá nas próximas seções, isso se torna útil ao configurar o [!UICONTROL Data Layer] para um novo valor, para que ele possa ser obtido pelo [!UICONTROL Data Element] nas tags da Platform.
+Neste exemplo de Audience Manager, você usa um [!UICONTROL Direct Call rule] nas tags da Platform para acionar a ocorrência que entra no Audience Manager. Como você verá nas próximas seções, isso se torna útil ao configurar o [!UICONTROL Data Layer] como um novo valor, para que ele possa ser selecionado pelo [!UICONTROL Data Element] nas tags da Platform.
 
 ## Página de demonstração {#demo-page}
 
@@ -54,13 +54,13 @@ Como mencionado, quando o novo conteúdo é carregado na página ou quando algu�
 Se você for para o site de demonstração listado acima e observar a fonte da página, verá:
 
 * A camada de dados está no cabeçalho da página, antes da chamada para as tags da Platform
-* O JavaScript no link SPA simulado altera o [!UICONTROL Data Layer], em seguida, chama as tags da Platform (a variável `_satellite.track()` chamada de ). Se você estava usando eventos personalizados JavaScript em vez disso [!UICONTROL Direct Call Rule], a lição é a mesma. Primeiro altere o [!DNL data layer]e, em seguida, chame as tags da Platform.
+* O JavaScript no link SPA simulado altera o [!UICONTROL Data Layer] e, em seguida, chama as tags da Platform (a chamada `_satellite.track()`). Se você estava usando eventos personalizados do JavaScript em vez deste [!UICONTROL Direct Call Rule], a lição é a mesma. Primeiro, altere o [!DNL data layer] e, em seguida, chame as tags da Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Recursos adicionais {#additional-resources}
 
-* [Discussão sobre SPA nos fóruns de Adobe](https://forums.adobe.com/thread/2451022)
-* [Sites de arquitetura de referência para mostrar como implementar o SPA em tags da Platform](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [Utilização de práticas recomendadas ao rastrear o SPA no Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [Discussão sobre o SPA nos fóruns do Adobe](https://forums.adobe.com/thread/2451022)
+* [Sites de arquitetura de referência para mostrar como implementar o SPA nas tags da Platform](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Usando práticas recomendadas ao rastrear o SPA no Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
 * [Site de demonstração usado para este artigo](https://aam.enablementadobe.com/SPA-Launch.html)

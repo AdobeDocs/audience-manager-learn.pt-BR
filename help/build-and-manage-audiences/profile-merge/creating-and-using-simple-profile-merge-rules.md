@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Criar e usar simples [!UICONTROL Profile Merge Rules]
+# Criar e usar [!UICONTROL Profile Merge Rules] simples
 
-Saiba mais sobre [!UICONTROL Profile Merge Rules] e como atribuí-los a segmentos. Saiba mais sobre o padrão [!UICONTROL Current Device] e quando pode e deve ser usado.
+Saiba mais sobre [!UICONTROL Profile Merge Rules] e como atribuí-los a segmentos. Saiba mais sobre o perfil [!UICONTROL Current Device] padrão e quando ele pode e deve ser usado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

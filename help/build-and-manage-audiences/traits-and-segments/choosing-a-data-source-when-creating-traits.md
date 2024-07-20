@@ -1,6 +1,6 @@
 ---
 title: Escolher uma fonte de dados ao criar características
-description: Um dos campos importantes que devem ser preenchidos ao criar características é o campo Fonte de dados. Obtenha dicas sobre como escolher a fonte de dados certa para características integradas e com base em regras.
+description: Um dos campos importantes que devem ser preenchidos ao criar características é o campo Source de dados. Obtenha dicas sobre como escolher a fonte de dados certa para características integradas e com base em regras.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Escolher uma fonte de dados ao criar características
 
-Um dos campos importantes a serem preenchidos ao criar características é o [!UICONTROL Data Source] campo. Obtenha dicas sobre como escolher a fonte de dados certa para características integradas e com base em regras.
+Um dos campos importantes a serem preenchidos ao criar características é o campo [!UICONTROL Data Source]. Obtenha dicas sobre como escolher a fonte de dados certa para características integradas e com base em regras.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
