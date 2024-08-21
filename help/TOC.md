@@ -4,7 +4,7 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutorials do Audience Manager
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -16,8 +16,8 @@ ht-degree: 2%
 
 + [tutoriais do Audience Manager](overview.md)
 + Introdução ao Audience Manager {#intro-to-audience-manager}
-   + [Como um DMP pode mudar sua empresa](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
-   + [Audience Manager - Visão geral de um DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+   + [Como uma DMP pode mudar sua empresa](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [Audience Manager - Visão geral de uma DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Casos de uso do Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Entender termos e conceitos básicos](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Entender o fluxo de dados no Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [Definir permissões com controle de acesso baseado em função](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Governança e privacidade de dados {#data-governance-and-privacy}
       + [Validação de ID de dispositivo global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [Suporte ao IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [Suporte ao IAB TCF 2.2](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Ofuscação de IP por país](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Uso e cobrança {#usage-and-billing}
       + [Monitorar e relatar o uso da atividade](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
