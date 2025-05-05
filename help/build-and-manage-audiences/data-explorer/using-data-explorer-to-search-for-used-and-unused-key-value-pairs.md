@@ -22,7 +22,7 @@ ht-degree: 0%
 
 No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com o [!UICONTROL Data Explorer].
 
->[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30833/?quality=12&captions=por_br)
 
 Para descobrir se um sinal foi criado em uma característica, não é mais necessário baixar um arquivo BAAAM e também o relatório [!UICONTROL Unused Signals]. Agora você pode simplesmente pesquisar esse par de chave/valor no [!DNL Data Explorer], também conhecido como o Aplicativo [!UICONTROL Signals], no AAM, e encontrar pares de chave/valor que estejam em características e aquelas que não estejam, tudo na mesma lista. Excelente economia de tempo!
 

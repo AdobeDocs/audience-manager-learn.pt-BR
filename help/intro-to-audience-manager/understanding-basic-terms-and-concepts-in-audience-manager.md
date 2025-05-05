@@ -24,4 +24,4 @@ ht-degree: 85%
 
 Neste vídeo vamos analisar alguns dos termos e conceitos básicos que farão você começar a usar o Audience Manager, incluindo sinais, características, segmentos etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37141/?quality=12&captions=por_br)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Quando quiser trazer seus dados do CRM primários para o Audience Manager para direcionar melhor seus clientes, é necessário primeiro criar uma fonte de dados entre dispositivos para armazenar as IDs e os dados do CRM. Isso mostra como fazer isso e configurar o método `setCustomerIDs()` nas tags Experience Platform para logons.
 
->[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346215/?quality=12&learn=on&captions=por_br)

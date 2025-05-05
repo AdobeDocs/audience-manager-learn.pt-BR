@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo primeiro fornece algumas informações sobre os pré-requisitos para criar o destino com base em Pessoas, e também mostra como configurar uma conta integrada (link para o parceiro, como o [!DNL Facebook]). Em seguida, ele o orienta pela configuração no produto do próprio destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32074/?quality=12&captions=por_br)

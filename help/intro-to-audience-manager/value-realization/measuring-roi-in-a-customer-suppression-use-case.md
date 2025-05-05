@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Um centavo salvo é um centavo ganho, certo? Saiba como usar algumas fórmulas para determinar a economia de custos da campanha suprimindo os anúncios para clientes existentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41302/?quality=12&learn=on&captions=por_br)

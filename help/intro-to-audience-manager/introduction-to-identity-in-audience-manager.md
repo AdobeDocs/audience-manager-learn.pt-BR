@@ -24,4 +24,4 @@ ht-degree: 86%
 
 Neste vídeo, você aprenderá como o Adobe Audience Manager gerencia a identidade, incluindo perfis internos e união de perfis, bem como a sincronização de IDs com parceiros.
 
->[!VIDEO](https://video.tv.adobe.com/v/34172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38413/?quality=12&captions=por_br)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ao criar, editar ou excluir características, usar a interface do usuário para fazer isso uma por uma pode ser ineficiente e demorado. Neste vídeo, saiba como usar o BAAAM, a ferramenta de gerenciamento em massa do Audience Manager, para criar, editar e excluir características em massa, usando uma planilha simples do Microsoft como interface com a API REST.
 
->[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344716/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, incluindo o download da planilha BAAAM, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=pt-BR#reference).
 

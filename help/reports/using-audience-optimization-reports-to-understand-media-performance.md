@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Saiba como usar os Relatórios de Audience Optimization para melhorar suas campanhas, entender onde investir seu orçamento de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros dados relevantes nesses relatórios.
 
->[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413367/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=pt-BR#reporting).

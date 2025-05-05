@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Ao trazer seus primários para o Audience Manager para melhor entender e direcionar seu cliente, há determinados requisitos de formatação para os dados. Este vídeo aborda algumas das principais opções e mostra onde obter mais informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346208/?quality=12&learn=on&captions=por_br)
 
 Para assistir a um vídeo sobre nomenclatura e importação de arquivos, clique [AQUI](steps-for-ingesting-file-based-data.md).
 

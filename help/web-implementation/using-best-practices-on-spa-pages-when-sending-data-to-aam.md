@@ -56,7 +56,7 @@ Se você for para o site de demonstração listado acima e observar a fonte da p
 * A camada de dados está no cabeçalho da página, antes da chamada para as tags da Platform
 * O JavaScript no link SPA simulado altera o [!UICONTROL Data Layer] e, em seguida, chama as tags da Platform (a chamada `_satellite.track()`). Se você estava usando eventos personalizados do JavaScript em vez deste [!UICONTROL Direct Call Rule], a lição é a mesma. Primeiro, altere o [!DNL data layer] e, em seguida, chame as tags da Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34854/?quality=12&captions=por_br)
 
 ## Recursos adicionais {#additional-resources}
 

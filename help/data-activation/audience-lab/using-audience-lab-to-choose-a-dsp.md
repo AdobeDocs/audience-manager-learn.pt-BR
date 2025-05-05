@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Neste vídeo, abordamos a criação de um teste [!UICONTROL Audience Lab], para que você possa testar o DSP A/B ou outros destinos do AAM e ver qual deles gera o melhor retorno sobre o investimento em anúncios.
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30829/?quality=12&captions=por_br)
 
 Criar um teste [!UICONTROL Audience Lab] é fácil e pode ser feito em apenas alguns minutos, como mostra o vídeo acima. Conforme percorrer as etapas na interface do, você configurará o seguinte:
 
