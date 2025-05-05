@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá as etapas a serem seguidas ao integrar dados offl
 
 Para assistir a um vídeo sobre formatação de dados para arquivos de entrada, clique [AQUI](formatting-and-ingesting-file-based-data.md).
 
-Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=pt-BR).

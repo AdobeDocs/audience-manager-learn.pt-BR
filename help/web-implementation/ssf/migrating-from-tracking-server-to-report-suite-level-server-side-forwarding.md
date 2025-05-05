@@ -40,7 +40,7 @@ Se você não tiver certeza se o [!DNL tracking server forwarding] está habilit
 
 ## Encaminhamento pelo lado do servidor de nível [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Um dos maiores benefícios de mudar do encaminhamento [!UICONTROL tracking server] para o encaminhamento [!UICONTROL report suite] é que agora você poderá usar &quot;Audience Analytics&quot;, que é a capacidade de encaminhar Audience Manager [!UICONTROL segments] de volta para o Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Consulte mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Um dos maiores benefícios de mudar do encaminhamento [!UICONTROL tracking server] para o encaminhamento [!UICONTROL report suite] é que agora você poderá usar &quot;Audience Analytics&quot;, que é a capacidade de encaminhar Audience Manager [!UICONTROL segments] de volta para o Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Consulte mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

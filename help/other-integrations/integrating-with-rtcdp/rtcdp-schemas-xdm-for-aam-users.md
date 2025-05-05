@@ -26,6 +26,6 @@ Ao migrar do Audience Manager para o Real-time Customer Data Platform (Real-time
 
 Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre o Real-time Customer Data Platform. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
-* [Noções básicas sobre o sistema XDM e o Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [Criar esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Noções básicas sobre o sistema XDM e o Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=pt-BR)
+* [Criar esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=pt-BR)
+* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=pt-BR#getting-started)

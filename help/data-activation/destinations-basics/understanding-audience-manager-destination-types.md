@@ -21,6 +21,6 @@ Este vídeo o orienta pelos diferentes tipos de destinos no Adobe Audience Manag
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Você pode ver uma lista de parceiros de destino de servidor para servidor disponíveis na [documentação sobre Destinos com base em dispositivo do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+Você pode ver uma lista de parceiros de destino de servidor para servidor disponíveis na [documentação sobre Destinos com base em dispositivo do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=pt-BR).
 
-Para obter mais informações sobre destinos, visite [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) na documentação do produto.
+Para obter mais informações sobre destinos, visite [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=pt-BR) na documentação do produto.

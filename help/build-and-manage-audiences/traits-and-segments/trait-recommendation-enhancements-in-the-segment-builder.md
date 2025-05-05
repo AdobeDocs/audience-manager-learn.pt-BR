@@ -23,4 +23,4 @@ Neste vídeo, você aprenderá a usar as recomendações de características atu
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=pt-BR).

@@ -22,7 +22,7 @@ Ao criar, editar ou excluir características, usar a interface do usuário para 
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Para obter mais informações, incluindo o download da planilha BAAAM, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Para obter mais informações, incluindo o download da planilha BAAAM, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=pt-BR#reference).
 
 >[!IMPORTANT]
 >

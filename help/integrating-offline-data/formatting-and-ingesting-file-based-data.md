@@ -26,4 +26,4 @@ Ao trazer seus primários para o Audience Manager para melhor entender e direcio
 
 Para assistir a um vídeo sobre nomenclatura e importação de arquivos, clique [AQUI](steps-for-ingesting-file-based-data.md).
 
-Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=pt-BR&).

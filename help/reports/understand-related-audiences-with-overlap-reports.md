@@ -24,4 +24,4 @@ Relatórios de sobreposição permitem que você veja como os públicos de carac
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=pt-BR#reporting).

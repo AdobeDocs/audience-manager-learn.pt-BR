@@ -26,4 +26,4 @@ Com o [!UICONTROL Trait Recommendations], ao criar ou editar um segmento no [!UI
 
 [!UICONTROL Trait Recommendations] trabalhe com dados primários e de terceiros, para que você possa incluir [!UICONTROL Traits] adicionais recomendados e aumentar seu público-alvo.
 
-Para obter mais informações sobre este recurso, consulte a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Para obter mais informações sobre este recurso, consulte a [documentação](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/trait-recommendations.html).

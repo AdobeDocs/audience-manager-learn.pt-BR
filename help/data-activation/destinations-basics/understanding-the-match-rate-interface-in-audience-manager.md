@@ -21,4 +21,4 @@ Este vídeo o orienta pela interface do [!UICONTROL Destination], mostrando e ex
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Para obter mais informações, visite [Públicos-alvo endereçáveis](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) na documentação do produto.
+Para obter mais informações, visite [Públicos-alvo endereçáveis](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=pt-BR) na documentação do produto.

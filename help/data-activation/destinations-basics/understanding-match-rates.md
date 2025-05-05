@@ -21,4 +21,4 @@ Este vídeo ajuda você a entender as Taxas de correspondência no Adobe Audienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=pt-BR).
