@@ -1,5 +1,5 @@
 ---
-title: Compreender métricas entre dispositivos no Audience Manager
+title: Entender as métricas entre dispositivos no Audience Manager
 description: Saiba mais sobre a diferença entre perfis de dispositivos e perfis entre dispositivos e onde os números na interface correspondem a esses diferentes tipos de perfis.
 feature: Profile Merge
 topics: null
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Neste vídeo, você aprende sobre a diferença entre perfis de dispositivo e perfis entre dispositivos e onde os números na interface correspondem a esses diferentes tipos de perfil.
 
->[!VIDEO](https://video.tv.adobe.com/v/36859/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

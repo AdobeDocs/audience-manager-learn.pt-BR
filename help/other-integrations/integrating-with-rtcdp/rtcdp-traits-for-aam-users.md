@@ -1,6 +1,6 @@
 ---
 title: Noções básicas de características na CDP em tempo real para usuários do Audience Manager
-description: À medida que você migra do Audience Manager para o Real-time Customer Data Platform, é útil compreender as diferenças de conceitos. Este vídeo aborda características no Audience Manager e o equivalente na Real-time CDP.
+description: À medida que você migra do Audience Manager para a Plataforma de dados do cliente em tempo real, é útil compreender as diferenças nos conceitos. Este vídeo aborda as características no Audience Manager e o equivalente na Real-time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,14 +18,14 @@ ht-degree: 1%
 
 # Noções básicas de características na CDP em tempo real para usuários do Audience Manager
 
-À medida que você migra do Audience Manager para o Real-time Customer Data Platform, é útil compreender as diferenças de conceitos. Este vídeo aborda características no Audience Manager e o equivalente na Real-time CDP.
+À medida que você migra do Audience Manager para a Plataforma de dados do cliente em tempo real, é útil compreender as diferenças nos conceitos. Este vídeo aborda as características no Audience Manager e o equivalente na Real-time CDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331900/?quality=12&learn=on)
 
 ## Recursos adicionais
 
-Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre o Real-time Customer Data Platform. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
+Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre a Plataforma de dados do cliente em tempo real. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
-* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=pt-BR#getting-started)
-* [Criar conjuntos de dados e assimilar dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=pt-BR#data-ingestion)
-* [Criar segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=pt-BR#segments)
+* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Criar conjuntos de dados e assimilar dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
+* [Criar segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)

@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Este vídeo o orienta pelos conceitos e etapas para criar um [!UICONTROL People-Based Destination] a [!DNL LinkedIn]. Ele se baseia nos vídeos e na documentação adicionais relacionados aos Destinos com base em pessoas.
 
->[!VIDEO](https://video.tv.adobe.com/v/38434/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=pt-BR).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
 Você também pode encontrar vídeos adicionais sobre Destinos com base em Pessoas [AQUI](https://adobe.ly/aamlearnpbd).

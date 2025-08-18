@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Ao criar campanhas de marketing, especialmente campanhas de extensão de alcance/público-alvo, talvez você queira excluir seus clientes atuais, para que possa vender para eles de uma maneira diferente. Este vídeo discute as opções de criação de segmentos para excluir aqueles que já se converteram em status de cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/41316/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

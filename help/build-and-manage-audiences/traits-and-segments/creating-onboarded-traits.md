@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Obtenha dicas para criar características integradas no Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/328522/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

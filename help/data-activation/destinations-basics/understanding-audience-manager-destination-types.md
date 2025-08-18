@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# Compreendendo os tipos de Audience Manager [!UICONTROL Destination]
+# Compreensão dos tipos [!UICONTROL Destination] do Audience Manager
 
 Este vídeo o orienta pelos diferentes tipos de destinos no Adobe Audience Manager e fornece exemplos de quando você usaria cada um deles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Você pode ver uma lista de parceiros de destino de servidor para servidor disponíveis na [documentação sobre Destinos com base em dispositivo do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=pt-BR).
+Você pode ver uma lista de parceiros de destino de servidor para servidor disponíveis na [documentação de Destinos com base em dispositivo do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Para obter mais informações sobre destinos, visite [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=pt-BR) na documentação do produto.
+Para obter mais informações sobre destinos, visite [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) na documentação do produto.

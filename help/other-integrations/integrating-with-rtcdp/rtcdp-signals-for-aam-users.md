@@ -1,6 +1,6 @@
 ---
 title: Compreensão de sinais na CDP em tempo real para usuários do Audience Manager
-description: Este vídeo destina-se aos usuários do Audience Manager que estão migrando para o Real-time Customer Data Platform (Real-time CDP) e discute como os sinais (pares de valores chave) usados no Audience Manager para criar características são usados na Platform.
+description: Este vídeo destina-se aos usuários do Audience Manager que estão migrando para a Plataforma de dados do cliente em tempo real (CDP em tempo real) e discute como os sinais (pares de valores chave) usados no Audience Manager para criar características são usados na plataforma.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,13 +18,13 @@ ht-degree: 1%
 
 # Compreensão de sinais na CDP em tempo real para usuários do Audience Manager
 
-Este vídeo destina-se aos usuários do Audience Manager que estão migrando para o Real-time Customer Data Platform (Real-time CDP) e discute como os sinais (pares de valores chave) usados no Audience Manager para criar características são usados na Platform.
+Este vídeo destina-se aos usuários do Audience Manager que estão migrando para a Plataforma de dados do cliente em tempo real (CDP em tempo real) e discute como os sinais (pares de valores chave) usados no Audience Manager para criar características são usados na plataforma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
 
 ## Recursos adicionais
 
-Abaixo estão os vídeos e recursos existentes que podem ajudá-lo a saber mais sobre o Real-time Customer Data Platform. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
+Abaixo estão vídeos e recursos existentes que podem ajudá-lo a saber mais sobre a Plataforma de dados do cliente em tempo real. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
-* [Noções básicas de características na CDP em tempo real para usuários do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=pt-BR#other-integrations)
-* [Noções básicas de segmentos na CDP em tempo real para usuários do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=pt-BR#other-integrations)
+* [Noções básicas de características na CDP em tempo real para usuários do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
+* [Noções básicas de segmentos na CDP em tempo real para usuários do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)

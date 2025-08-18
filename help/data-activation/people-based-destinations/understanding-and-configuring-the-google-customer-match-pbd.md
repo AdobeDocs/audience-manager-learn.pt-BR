@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo aborda os detalhes e o caso de uso do Destino baseado em pessoas da Correspondência de clientes do Google, e inclui uma apresentação sobre como criar um segmento e mapeá-lo para um destino. Ele também mostra o público-alvo no Google Ad Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/326465/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

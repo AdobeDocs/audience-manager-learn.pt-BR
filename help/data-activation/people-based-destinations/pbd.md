@@ -31,6 +31,6 @@ Esta seção contém vídeos e tutoriais para tópicos relacionados a Destinos c
 * [Configurar regras de mesclagem de perfis para destinos com base em pessoas](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [Criar segmentos para Destinos com base em pessoas](creating-segments-for-people-based-destinations.md)
 * [Criar e configurar Destinos com base em pessoas](create-and-configure-people-based-destinations.md)
-* [Entender e configurar o Destino baseado em pessoas do LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
+* [Compreender e configurar o destino com base em pessoas do LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Estes vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=pt-BR).
+Estes vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

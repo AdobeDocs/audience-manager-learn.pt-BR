@@ -23,4 +23,4 @@ ht-degree: 0%
 
 O controle de acesso com base em funções no Adobe Audience Manager permite gerenciar permissões em nível de grupo, controlando quem pode ver e trabalhar com ativos, incluindo características, segmentos, destinos e modelos. Saiba como configurar os grupos de permissões e adicionar usuários a eles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449392/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

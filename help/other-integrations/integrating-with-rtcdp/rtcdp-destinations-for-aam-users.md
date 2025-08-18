@@ -1,6 +1,6 @@
 ---
 title: Compreensão de destinos na CDP em tempo real para usuários do Audience Manager
-description: À medida que você migra do Audience Manager para o Real-time Customer Data Platform (Real-time CDP), é fundamental conhecer os destinos para que você saiba como ativar os segmentos de público para parceiros de destino. Este vídeo discute os diferentes tipos de destino e onde eles estão localizados na Real-time CDP.
+description: À medida que você migra do Audience Manager para a Plataforma de dados do cliente em tempo real (CDP em tempo real), é fundamental conhecer os destinos para que você saiba como ativar os segmentos de público para parceiros de destino. Este vídeo discute os diferentes tipos de destino e onde eles estão localizados na Real-time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Compreensão de destinos na CDP em tempo real para usuários do Audience Manager
 
-À medida que você migra do Audience Manager para o Real-time Customer Data Platform (Real-time CDP), é fundamental conhecer os destinos para que você saiba como ativar os segmentos de público para parceiros de destino. Este vídeo discute os diferentes tipos de destino e onde eles estão localizados na Real-time CDP.
+À medida que você migra do Audience Manager para a Plataforma de dados do cliente em tempo real (CDP em tempo real), é fundamental conhecer os destinos para que você saiba como ativar os segmentos de público para parceiros de destino. Este vídeo discute os diferentes tipos de destino e onde eles estão localizados na Real-time CDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Como importar segmentos do Adobe Analytics para o Audience Manager
-description: Além de encaminhar dados em tempo real do Adobe Analytics para o Audience Manager, você também pode importar segmentos que incluam dados pós-processados do Analytics para o Audience Manager por meio do Experience Cloud. Esse é um recurso eficiente que nenhum outro DMP pode ostentar.
+description: Além de encaminhar dados em tempo real do Adobe Analytics para o Audience Manager, você também pode importar segmentos que incluam dados pós-processados do Analytics para o Audience Manager por meio da Experience Cloud. Esse é um recurso eficiente que nenhuma outra DMP pode ostentar.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Importar segmentos do Adobe Analytics para o Audience Manager
 
-Além de encaminhar dados em tempo real do Adobe Analytics para o Audience Manager, você também pode importar segmentos que incluam dados pós-processados do Analytics para o Audience Manager por meio do Experience Cloud. Esse é um recurso eficiente que nenhum outro DMP pode ostentar.
+Além de encaminhar dados em tempo real do Adobe Analytics para o Audience Manager, você também pode importar segmentos que incluam dados pós-processados do Analytics para o Audience Manager por meio da Experience Cloud. Esse é um recurso eficiente que nenhuma outra DMP pode ostentar.
 
->[!VIDEO](https://video.tv.adobe.com/v/344727/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)

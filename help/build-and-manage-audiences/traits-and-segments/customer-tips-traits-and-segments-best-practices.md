@@ -28,4 +28,4 @@ Matt Vittorioso é especialista em marketing da equipe de marketing digital da A
 * Utilizando a funcionalidade pronta para uso
 * Revisão regular de características e segmentos
 
-[Leia as Dicas do Matt na Comunidade Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=pt)
+[Leia as Dicas do Matt na Comunidade da Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

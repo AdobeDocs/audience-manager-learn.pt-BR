@@ -1,6 +1,6 @@
 ---
 title: Configurar a expiração de característica com [!UICONTROL Time-to-Live] (TTL)
-description: Saiba como localizar e definir [!UICONTROL Time to Live] (TTL) em Audience Manager. Use essa configuração ao criar características, que define uma expiração de associação na característica se um usuário não se requalificar dentro do período especificado.
+description: Saiba como localizar e definir [!UICONTROL Time to Live] (TTL) no Audience Manager. Use essa configuração ao criar características, que define uma expiração de associação na característica se um usuário não se requalificar dentro do período especificado.
 feature: Traits
 topics: null
 activity: use
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Uma das configurações ao criar características é a configuração [!UICONTROL Time to Live] (TTL), que é uma expiração da associação na característica se você não se requalificar dentro do período especificado. Este vídeo mostra como ver e definir este recurso.
 
->[!VIDEO](https://video.tv.adobe.com/v/341340/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

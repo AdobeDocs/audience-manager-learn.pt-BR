@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Relatórios de sobreposição permitem que você veja como os públicos de características e segmentos se sobrepõem (o mesmo visitante em várias características ou segmentos), para que você saiba onde pode agir com seus dados para aumentar a conversão ou o foco no alcance de expansão.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413366/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=pt-BR#reporting).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

@@ -1,6 +1,6 @@
 ---
 title: Relatórios de identidade de público-alvo
-description: Saiba mais sobre relatórios de identidade de público-alvo. Esse tipo de relatório em Audience Manager permite relatar a população total de uma característica ou segmento por pessoa ou definições de identidade da família.
+description: Saiba mais sobre relatórios de identidade de público-alvo. Esse tipo de relatório no Audience Manager permite relatar a população total de uma característica ou segmento por pessoa ou definições de identidade da família.
 feature: profile merge
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Relatórios de identidade de público-alvo
 
-Os relatórios de identidade de público-alvo fornecem aos clientes a capacidade de relatar a população total de uma característica ou segmento por definições de identidade de pessoa/residência. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
+Os relatórios de identidade de público-alvo fornecem aos clientes a capacidade de relatar a população total de uma característica ou segmento por definições de identidade de pessoa/residência. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/32079/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

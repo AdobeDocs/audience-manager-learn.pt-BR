@@ -1,6 +1,6 @@
 ---
 title: Use o Painel de sinais para visualizar rapidamente os principais sinais disponíveis
-description: Saiba como usar tabelas integradas e personalizadas no Painel de sinais no Data Explorer. Você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até mesmo clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
+description: Saiba como usar tabelas integradas e personalizadas no Painel de sinais no Data Explorer. Você pode ver rapidamente os dados mais recentes que entram no Audience Manager e até clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
 feature: Data Explorer
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Use o [!UICONTROL Signals Dashboard] para visualizar rapidamente os principais sinais disponíveis [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-Ao usar tabelas integradas e personalizadas no [!UICONTROL Signals Dashboard] no [!DNL Data Explorer], você pode ver rapidamente os dados mais recentes que entram no Audience Manager e até clicar nele para criar características, conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
+Ao usar tabelas integradas e personalizadas no [!UICONTROL Signals Dashboard] no [!DNL Data Explorer], você pode ver rapidamente os dados mais recentes que entram no Audience Manager e até clicar nele para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
 Ao clicar para [!UICONTROL Data Explorer], também conhecido como o aplicativo [!UICONTROL Signals], você verá um painel padrão dos sinais principais, bem como novos sinais. Além desses dois padrões, você pode salvar pesquisas e adicioná-las ao painel, para que possa visualizar rapidamente seus dados mais importantes diretamente na página inicial do recurso.
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=pt-BR)).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

@@ -1,6 +1,6 @@
 ---
 title: Criar e configurar Destinos com base em pessoas
-description: Saiba mais sobre os pré-requisitos para criar seu destino com base em pessoas e também como configurar uma conta integrada (link para o parceiro, como o Facebook). Saiba mais sobre a configuração do destino no produto.
+description: Saiba mais sobre os pré-requisitos para criar seu destino com base em Pessoas e também como configurar uma conta integrada (link para o parceiro, como o Facebook). Saiba mais sobre a configuração do destino no produto.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo primeiro fornece algumas informações sobre os pré-requisitos para criar o destino com base em Pessoas, e também mostra como configurar uma conta integrada (link para o parceiro, como o [!DNL Facebook]). Em seguida, ele o orienta pela configuração no produto do próprio destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/32074/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

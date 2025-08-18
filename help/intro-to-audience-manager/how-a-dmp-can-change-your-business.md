@@ -1,6 +1,6 @@
 ---
-title: Como um DMP pode mudar sua empresa
-description: As Plataformas de gerenciamento de dados são a conversa do mundo tecnológico atualmente, mas o que são e, mais importante, como elas podem ajudá-lo, à medida que os profissionais de marketing atingem seus objetivos? Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de caso reais, nos quais os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
+title: Como uma DMP pode mudar sua empresa
+description: As Plataformas de gerenciamento de dados são a conversa do mundo tecnológico atualmente, mas o que são e, mais importante, como elas podem ajudá-lo, à medida que os profissionais de marketing atingem seus objetivos? Durante esta sessão, explicaremos o que é uma DMP e apresentaremos alguns estudos de caso reais, onde os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
 feature: Overview
 topics: null
 activity: understand
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Como um DMP pode mudar sua empresa
+# Como uma DMP pode mudar sua empresa
 
 [!DNL Data Management Platforms] fala sobre o mundo tecnológico no momento, mas o que são e, mais importante, como eles podem ajudá-lo, enquanto profissionais de marketing, a atingir seus objetivos?
 
-Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de caso reais, nos quais os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
+Durante esta sessão, explicaremos o que é uma DMP e apresentaremos alguns estudos de caso reais, onde os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

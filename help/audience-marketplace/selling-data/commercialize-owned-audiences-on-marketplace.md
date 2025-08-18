@@ -1,6 +1,6 @@
 ---
 title: Comercializar públicos-alvo próprios no Marketplace
-description: Neste vídeo, você aprenderá a configurar seus dados como um feed de dados privado ou público no Audience Marketplace, tornando-o um provedor de dados de terceiros.
+description: Neste vídeo, você aprenderá a configurar seus dados como um feed de dados privado ou público na Audience Marketplace, tornando-o um provedor de dados de terceiros.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Comercializar públicos-alvo próprios no Marketplace
 
-Neste vídeo, saiba como configurar seus dados como um feed de dados privado ou público no Audience Marketplace, tornando-o um provedor de dados secundários ou de terceiros.
+Neste vídeo, saiba como configurar seus dados como um feed de dados privado ou público na Audience Marketplace, tornando-o um provedor de dados secundários ou de terceiros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

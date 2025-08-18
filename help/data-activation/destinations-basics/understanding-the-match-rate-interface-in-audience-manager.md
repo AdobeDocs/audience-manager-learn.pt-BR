@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Compreender a interface Taxa de correspondência no Audience Manager
+# Entender a interface Taxa de correspondência no Audience Manager
 
 Este vídeo o orienta pela interface do [!UICONTROL Destination], mostrando e explicando os números associados a taxas de correspondência e públicos endereçáveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/342854/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Para obter mais informações, visite [Públicos-alvo endereçáveis](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=pt-BR) na documentação do produto.
+Para obter mais informações, visite [Públicos-alvo endereçáveis](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) na documentação do produto.

@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Neste vídeo, saiba como configurar uma pesquisa no [!DNL Data Explorer], executá-la e salvá-la para reutilização posterior. Você também pode colocar a pesquisa salva no painel para que ela fique disponível imediatamente ao acessar o aplicativo [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/30964/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/data-explorer.html).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

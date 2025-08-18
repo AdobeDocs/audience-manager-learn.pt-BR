@@ -1,6 +1,6 @@
 ---
 title: Casos de uso do Audience Manager
-description: Neste vídeo, identificamos quatro casos de uso comuns de Audience Manager e descrevemos as práticas recomendadas associadas a eles.
+description: Neste vídeo, identificamos quatro casos de uso comuns do Audience Manager e descrevemos as práticas recomendadas associadas a eles.
 feature: Overview
 topics: null
 activity: understand
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Casos de uso do Audience Manager
 
-Neste vídeo, identificamos quatro casos de uso comuns de Audience Manager e descrevemos as práticas recomendadas associadas a eles.
+Neste vídeo, identificamos quatro casos de uso comuns do Audience Manager e descrevemos as práticas recomendadas associadas a eles.
 
->[!VIDEO](https://video.tv.adobe.com/v/37273/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=pt-BR).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).

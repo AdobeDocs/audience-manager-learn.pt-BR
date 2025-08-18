@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Neste vídeo, veja como usar os relatórios gerais no Audience Manager para obter números de características e segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/341013/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

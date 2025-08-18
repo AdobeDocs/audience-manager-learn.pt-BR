@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Usar [!UICONTROL Data Export Labels] para controlar o fluxo de dados
 
-O [!UICONTROL Data Export Labels] fornece a você um mecanismo em Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir o [!UICONTROL Data Export Controls] e o [!UICONTROL Data Export Labels] para trabalhar em conjunto com esse fim.
+O [!UICONTROL Data Export Labels] fornece a você um mecanismo no Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir o [!UICONTROL Data Export Controls] e o [!UICONTROL Data Export Labels] para trabalhar em conjunto com esse fim.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413368/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)
