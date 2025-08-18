@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo o orienta sobre a criação de um segmento no Audience Manager para ser usado para Destinos com base em pessoas.
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31679/?quality=12&captions=por_br)

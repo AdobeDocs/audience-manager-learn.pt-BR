@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Algumas de suas características são baseadas em conversões no site. Neste vídeo, aprenda a designá-los como tal e aprenda uma dica/um ponto de contato muito importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30830/?quality=12&captions=por_br)
 
 O que você está tentando fazer com que as pessoas façam no seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum no AAM criar características para visitantes que atenderam a esses critérios.
 

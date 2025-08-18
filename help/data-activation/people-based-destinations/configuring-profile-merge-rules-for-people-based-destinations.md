@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Neste vídeo, saiba mais sobre como configurar um [!UICONTROL Profile Merge Rule] para ser usado para Destinos com base em Pessoas, incluindo quando usar uma opção totalmente nova entre dispositivos.
 
->[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31680/?quality=12&captions=por_br)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, saiba como e por que excluir características específicas (ou grupos de) de um modelo algorítmico (semelhante).
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34855/?quality=12&captions=por_br)
 
 Os casos de uso para esse recurso incluem:
 

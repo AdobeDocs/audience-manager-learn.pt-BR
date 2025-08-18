@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar o [!DNL Data Explorer] para validar se você criou todas as características necessárias para aproveitar esses dados integrados.
 
->[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30834/?quality=12&captions=por_br)
 
 Em muitos casos, você cria características para dados integrados antes de realmente integrar os dados. No entanto, é possível que novas chaves e valores sejam adicionados ao longo do caminho e você não tenha mais todas as características criadas necessárias para aproveitar esses excelentes dados. Com o [!UICONTROL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os seus dados integrados e filtrá-los por [!UICONTROL Data Source] específico ou até mesmo filtrá-los pela chave e/ou valor. Essa pesquisa permite validar com eficiência os dados.
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Uma das configurações ao criar características é a configuração [!UICONTROL Time to Live] (TTL), que é uma expiração da associação na característica se você não se requalificar dentro do período especificado. Este vídeo mostra como ver e definir este recurso.
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341340/?quality=12&learn=on&captions=por_br)

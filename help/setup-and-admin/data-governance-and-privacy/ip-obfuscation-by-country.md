@@ -21,6 +21,6 @@ ht-degree: 0%
 
 O Audience Manager fornece o recurso de autoatendimento na interface do usuário para permitir que os clientes ativem a ofuscação de IP globalmente ou por país. Este vídeo o orienta durante a configuração.
 
->[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/34983/?quality=9&captions=por_br)
 
 Para obter mais informações sobre este recurso, consulte a [documentação](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/ip-obfuscation.html).

@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Entenda os principais desafios com a personalização entre canais e como o Adobe Audience Manager promove a jornada do cliente. Saiba também quais tipos de dados podem ser integrados no Audience Manager e identifique os parceiros de ecossistema ad-tech integrados ao Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37136/?quality=12&captions=por_br)
 
 Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=pt-BR).

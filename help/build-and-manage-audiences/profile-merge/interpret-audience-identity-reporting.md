@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Os relatórios de identidade de público-alvo fornecem aos clientes a capacidade de relatar a população total de uma característica ou segmento por definições de identidade de pessoa/residência. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32580/?quality=12&captions=por_br)

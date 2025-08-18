@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Neste vídeo, identificamos quatro casos de uso comuns do Audience Manager e descrevemos as práticas recomendadas associadas a eles.
 
->[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37273/?quality=12&captions=por_br)
 
 Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=pt-BR).

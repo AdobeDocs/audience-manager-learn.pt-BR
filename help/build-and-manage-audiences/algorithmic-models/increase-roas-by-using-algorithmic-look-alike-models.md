@@ -28,7 +28,7 @@ Para usar dados secundários e de terceiros em um modelo semelhante, primeiro pr
 
 Além disso, para ajudá-lo a pesquisar e decidir qual provedor de dados usar, um ótimo recurso é o [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30963/?quality=12&captions=por_br)
 
 ## Identificar ou criar uma característica ou segmento de usuário (conversão) ideal {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ No vídeo abaixo, mostrarei como criar uma característica de conversão, que vo
 
 Além disso, ao usar eventos do Adobe Analytics para criar características, há uma grande falha que você precisa ter em mente para não coletar mais usuários do que deveria na característica. Assista ao vídeo a seguir para uma grande revelação. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30830/?quality=12&captions=por_br)
 
 **OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro pressupõe que você tenha o Adobe Analytics. Obviamente, isso pode não ser o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=pt-BR)), e se sua atividade de conversão no site for enviada para o AAM pelo GA, você poderá criar sua característica de conversão a partir disso. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda será possível enviar dados para a AAM por meio de nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=pt-BR)). Em seguida, crie a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
 
@@ -46,7 +46,7 @@ Além disso, ao usar eventos do Adobe Analytics para criar características, há
 
 Após concluir as etapas acima, estamos prontos para criar um Modelo algorítmico (semelhante). À medida que estamos configurando o modelo, usaremos a característica de conversão como nossa característica base (visitantes-chave que queremos duplicar) e usaremos o fluxo de dados de terceiros ativado como nosso pool de pessoas do qual podemos extrair.
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/30962/?quality-12&captions=por_br)
 
 ## Uma prática recomendada importante {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ Ao criar o modelo algorítmico no Audience Manager, obviamente queremos que o mo
 
 Em seguida, precisaremos criar um [!UICONTROL Algorithmic Trait], para que os resultados do modelo possam ser usados. Sem criar uma característica, o modelo é inútil. Assim, depois que o modelo for executado, certifique-se de ir para a caixa de diálogo de características e criar um [!UICONTROL Algorithmic Trait]. O vídeo a seguir aborda esse assunto e mostra algumas dicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30961/?quality=12&captions=por_br)
 
 ## Criar um segmento a partir dos dados do modelo e enviá-lo para DSPs {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

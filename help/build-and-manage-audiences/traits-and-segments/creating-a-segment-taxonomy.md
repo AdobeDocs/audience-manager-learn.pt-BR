@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Ao criar um segmento no Audience Manager, você os armazena em uma estrutura de pastas ou em uma &quot;taxonomia&quot;. Aprenda algumas dicas para criar e gerenciar a taxonomia de segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326863/?quality=12&learn=on&captions=por_br)

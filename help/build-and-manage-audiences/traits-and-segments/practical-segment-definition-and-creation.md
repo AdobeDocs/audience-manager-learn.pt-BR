@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo o orienta por um processo de definição de segmentos e depois os classifica pelas características/sinais que você precisará para criá-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326721/?quality=12&learn=on&captions=por_br)

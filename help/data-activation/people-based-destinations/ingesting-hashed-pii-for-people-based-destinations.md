@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Neste vídeo, saiba como formatar uma sincronização de ID com base em arquivo para unir as IDs do cliente (CRM IDs) com endereços de email com hash. Isso permitirá enviar os endereços de email com hash para Destinos com base em pessoas, como [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31681/?quality=12&captions=por_br)

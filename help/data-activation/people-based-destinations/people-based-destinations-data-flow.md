@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo fornece uma visão geral dos Destinos com base em pessoas e mostra o fluxo de dados por todo o processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32585/?quality=12&captions=por_br)

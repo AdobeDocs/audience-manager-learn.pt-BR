@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Conforme você relata o uso de dados secundários e de terceiros no [!UICONTROL Audience Marketplace], talvez tenha entradas suficientes para fazer com que você não queira fazer isso manualmente. Neste vídeo, saiba como usar a ferramenta de upload em massa de relatórios de uso de dados. Essa ferramenta permite que você relate facilmente o uso de dados, mesmo que tenha muitos itens para atualizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33328/?quality=12&captions=por_br)
 
 Além de contar com essa ferramenta de carregamento em massa para simplificar e economizar tempo relatando o uso de dados, os clientes que compram dados secundários ou de terceiros do [!UICONTROL Audience Marketplace] se beneficiam de uma política de atribuição de custo aprimorada. Essa nova política atribui custos aos provedores de dados com base na contagem exclusiva de usuários de características em um segmento baseado em regras, resultando em mais transparência e cobrança de uso equitativa.
 Mais detalhes sobre o algoritmo de cobrança podem ser encontrados em [Atribuição de custo para feeds de dados do CPM](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/marketplace_cpm_billing.html) na documentação do produto.

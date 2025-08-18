@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a criar um modelo semelhante próprio, para encontrar mais de seus próprios visitantes que se parecem com seus conversores.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30831/?quality=12&captions=por_br)
 
 Os casos de uso para isso incluem:
 

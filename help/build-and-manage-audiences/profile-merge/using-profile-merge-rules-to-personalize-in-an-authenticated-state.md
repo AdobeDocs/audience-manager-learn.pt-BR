@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Ofereça aos seus clientes conectados uma experiência personalizada usando estas configurações do [!UICONTROL Profile Merge Rule].
 
->[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40011/?quality=12&learn=on&captions=por_br)
