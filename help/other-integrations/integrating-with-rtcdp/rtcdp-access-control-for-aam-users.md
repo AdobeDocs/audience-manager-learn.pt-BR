@@ -26,5 +26,5 @@ Ao mudar do Audience Manager para a Plataforma de dados do cliente em tempo real
 
 Abaixo estão os recursos existentes que podem ajudá-lo a saber mais sobre a Plataforma de dados do cliente em tempo real.
 
-* [Visão geral do controle de acesso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [Configurar permissões](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [Visão geral do controle de acesso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=pt-BR#access-control-hierarchy-and-workflow)
+* [Configurar permissões](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=pt-BR)

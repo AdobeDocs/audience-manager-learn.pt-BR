@@ -32,4 +32,4 @@ Assista aos vídeos e tutoriais dos recursos de Mesclagem de perfis, incluindo R
 * [Interpretar relatórios de identidade de público-alvo](interpret-audience-identity-reporting.md)
 * [Entender as métricas entre dispositivos no Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Estes vídeos podem ser usados junto com a [documentação de Regras de mesclagem de perfil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Estes vídeos podem ser usados junto com a [documentação de Regras de mesclagem de perfil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=pt-BR)

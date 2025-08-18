@@ -32,4 +32,4 @@ Criar um teste [!UICONTROL Audience Lab] é fácil e pode ser feito em apenas al
 1. Verifique o resumo do teste e ative o teste
 1. Quando o teste for concluído, acesse os resultados na tela inicial principal do [!UICONTROL Audience Lab]
 
-Para obter informações adicionais, consulte a [documentação sobre recursos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).
+Para obter informações adicionais, consulte a [documentação sobre recursos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=pt-BR).

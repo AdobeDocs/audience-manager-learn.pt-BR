@@ -74,7 +74,7 @@ As etapas a seguir descrevem a implementação.
 
 O principal pré-requisito para migrar para o encaminhamento pelo lado do servidor é ter o Serviço da Experience Cloud ID implementado. Isso é feito com mais facilidade se você estiver usando o Experience Platform Launch, nesse caso, basta instalar a extensão ECID e ela fará o resto.
 
-Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
+Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Se você não estiver fazendo o encaminhamento de dados pelo lado do servidor do
 
 ![falso sucesso](assets/falsesuccess.png)
 
-Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=pt-BR).

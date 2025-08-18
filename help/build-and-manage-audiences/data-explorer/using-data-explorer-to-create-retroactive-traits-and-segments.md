@@ -26,4 +26,4 @@ Este vídeo mostra como criar características retroativas, como característica
 
 Até agora, quando você criava características, elas coletavam dados somente ao seguir em frente. Isso significava que você tinha que criar muitas características para o caso de eles receberem tráfego ou dados. Agora, você pode aguardar para ver quais pares de chave/valor recebem dados e, em seguida, criar uma característica e preencher os dados com essa característica. Isso economiza tempo e energia e também ajuda a manter a taxonomia de características rígida, em vez de ter várias características que não têm dados.
 
-Para obter mais informações sobre [!DNL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obter mais informações sobre [!DNL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/data-explorer.html).

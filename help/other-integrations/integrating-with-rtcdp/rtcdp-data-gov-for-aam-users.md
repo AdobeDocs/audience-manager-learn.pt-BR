@@ -26,7 +26,7 @@ Este vídeo orienta os usuários do Audience Manager sobre a funcionalidade de g
 
 Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre a Plataforma de dados do cliente em tempo real. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
-* [Visão geral da governança de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [Classificar dados usando rótulos de governança](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [Criar políticas de uso de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Aplicar políticas de uso de dados na Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [Visão geral da governança de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=pt-BR#data-governance)
+* [Classificar dados usando rótulos de governança](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=pt-BR#data-governance)
+* [Criar políticas de uso de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=pt-BR#data-governance)
+* [Aplicar políticas de uso de dados na Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=pt-BR#data-governance)

@@ -28,4 +28,4 @@ Varun Kalra é um consultor de várias soluções que trabalha em um Adobe Solut
 * Aprofundamento de um caso de uso de direcionamento
 * Casos de uso para várias configurações de PMR
 
-[Leia as Dicas de Varun na Comunidade da Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leia as Dicas de Varun na Comunidade da Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=pt)

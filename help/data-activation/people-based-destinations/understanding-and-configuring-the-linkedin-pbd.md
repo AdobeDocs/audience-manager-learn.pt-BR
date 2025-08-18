@@ -24,6 +24,6 @@ Este vídeo o orienta pelos conceitos e etapas para criar um [!UICONTROL People-
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=pt-BR).
 
 Você também pode encontrar vídeos adicionais sobre Destinos com base em Pessoas [AQUI](https://adobe.ly/aamlearnpbd).

@@ -24,4 +24,4 @@ Neste vídeo, abordaremos a configuração [!UICONTROL Predictive Audiences] na 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=pt-BR).
