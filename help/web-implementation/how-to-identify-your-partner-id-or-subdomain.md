@@ -31,7 +31,7 @@ Caso prefira entrar e encontrá-lo sem assistir a este vídeo curto, você pode 
 
 Se você não consegue encontrá-lo rapidamente com essas referências rápidas, o vídeo é um compromisso de tempo curto. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40892/?captions=por_br&quality=12)
 
 >[!IMPORTANT]
 >

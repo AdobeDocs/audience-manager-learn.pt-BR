@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Ao migrar do Audience Manager para a Plataforma de dados do cliente em tempo real (CDP em tempo real), você encontrará alguns novos conceitos e práticas. Os esquemas e o XDM se encaixam nessa categoria. Este vídeo explica esses conceitos.
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418851/?captions=por_br&quality=12&learn=on)
 
 ## Recursos adicionais
 
