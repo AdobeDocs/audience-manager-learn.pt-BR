@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: b0ed3450-0a0b-4bc3-b579-b57bfea116d7
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Neste vídeo, identificamos quatro casos de uso comuns do Audience Manager e descrevemos as práticas recomendadas associadas a eles.
 
->[!VIDEO](https://video.tv.adobe.com/v/37273/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=pt-BR).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).

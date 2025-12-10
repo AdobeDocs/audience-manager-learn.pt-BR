@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -42,9 +42,9 @@ Nesse caso de uso, isso já foi considerado, porque você esgotou o inventário 
 
 Além disso, ao usar eventos para criar características, há uma grande falha que você precisa ter em mente para não coletar mais usuários do que deveria na característica. Assista ao vídeo a seguir para uma grande revelação. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/30830/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro pressupõe que você tenha o Adobe Analytics. Obviamente, isso pode não ser o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=pt-BR)), e se sua atividade de conversão no site for enviada para o AAM pelo GA, você poderá criar sua característica de conversão a partir disso. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda será possível enviar dados para a AAM por meio de nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=pt-BR)). Em seguida, crie novamente a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
+**OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro pressupõe que você tenha o Adobe Analytics. Obviamente, isso pode não ser o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)), e se sua atividade de conversão no site for enviada para o AAM pelo GA, você poderá criar sua característica de conversão a partir disso. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda será possível enviar dados para a AAM por meio de nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Em seguida, crie novamente a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
 
 ## Criar um modelo semelhante a partir de dados primários {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,13 +52,13 @@ Nesta etapa, vamos criar um Modelo Semelhante [!UICONTROL First Party]. Isso sig
 
 Nesse caso de uso, isso é importante, porque estamos tentando criar um segmento de usuários em nosso site que se parecem com conversores, mas ainda não foram convertidos, para que possamos vender esse segmento semelhante para anunciantes interessados.
 
->[!VIDEO](https://video.tv.adobe.com/v/30831/?quality-12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## Criar uma característica algorítmica {#creating-an-algorithmic-trait}
 
 Em seguida, precisaremos criar um [!UICONTROL Algorithmic Trait], para que os resultados do modelo possam ser usados. Sem criar uma característica, o modelo é inútil. Portanto, depois que o modelo for executado, certifique-se de ir para a caixa de diálogo de características e criar um [!UICONTROL Algorithmic Trait]. O vídeo a seguir aborda esse assunto e mostra algumas dicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/31287/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## Oferecer o [!UICONTROL Algorithmic Segment] aos anunciantes {#offering-the-algorithmic-segment-to-advertisers}
 

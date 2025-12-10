@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: d52786ba-8d3d-4a52-be11-21b78353b28b
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar o [!DNL Data Explorer] para validar se você criou todas as características necessárias para aproveitar esses dados integrados.
 
->[!VIDEO](https://video.tv.adobe.com/v/30834/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
 Em muitos casos, você cria características para dados integrados antes de realmente integrar os dados. No entanto, é possível que novas chaves e valores sejam adicionados ao longo do caminho e você não tenha mais todas as características criadas necessárias para aproveitar esses excelentes dados. Com o [!UICONTROL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os seus dados integrados e filtrá-los por [!UICONTROL Data Source] específico ou até mesmo filtrá-los pela chave e/ou valor. Essa pesquisa permite validar com eficiência os dados.
 
-Para obter mais informações sobre [!DNL Data Explorer], visite [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=pt-BR](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/data-explorer.html).
+Para obter mais informações sobre [!DNL Data Explorer], visite [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

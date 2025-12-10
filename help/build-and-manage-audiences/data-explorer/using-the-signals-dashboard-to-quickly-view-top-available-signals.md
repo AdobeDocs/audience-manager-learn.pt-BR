@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Ao usar tabelas integradas e personalizadas no [!UICONTROL Signals Dashboard] no
 
 Ao clicar para [!UICONTROL Data Explorer], também conhecido como o aplicativo [!UICONTROL Signals], você verá um painel padrão dos sinais principais, bem como novos sinais. Além desses dois padrões, você pode salvar pesquisas e adicioná-las ao painel, para que possa visualizar rapidamente seus dados mais importantes diretamente na página inicial do recurso.
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=pt-BR)).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

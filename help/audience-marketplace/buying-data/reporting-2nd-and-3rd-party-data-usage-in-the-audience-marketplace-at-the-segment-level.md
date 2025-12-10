@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 4d7f4e67-095a-4708-9df3-8216df815810
-source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -26,6 +26,6 @@ Este vídeo mostra um novo método de relatar o uso de dados na seção [!UICONT
 
 Essa versão oferece mais flexibilidade e um fluxo de trabalho aprimorado para uso de dados secundários e de terceiros, permitindo que os clientes relatem impressões no nível do segmento por meio da interface do usuário ou usando a funcionalidade de upload em massa.
 
-Além disso, os clientes que compram dados secundários ou de terceiros do [!UICONTROL Audience Marketplace] se beneficiam de uma política de atribuição de custo aprimorada. Essa nova política atribui custos aos provedores de dados com base na contagem exclusiva de usuários de características em um segmento baseado em regras, resultando em mais transparência e cobrança de uso equitativa. Mais detalhes sobre o algoritmo de cobrança podem ser encontrados em [Atribuição de custo para feeds de dados do CPM](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/marketplace_cpm_billing.html) na documentação do produto.
+Além disso, os clientes que compram dados secundários ou de terceiros do [!UICONTROL Audience Marketplace] se beneficiam de uma política de atribuição de custo aprimorada. Essa nova política atribui custos aos provedores de dados com base na contagem exclusiva de usuários de características em um segmento baseado em regras, resultando em mais transparência e cobrança de uso equitativa. Mais detalhes sobre o algoritmo de cobrança podem ser encontrados em [Atribuição de custo para feeds de dados do CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) na documentação do produto.
 
-Para obter mais informações sobre como relatar o uso do CPM, consulte [Como relatar o uso do CPM](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/t_marketplace_report_cpm_usage.html) na documentação do produto.
+Para obter mais informações sobre como relatar o uso do CPM, consulte [Como relatar o uso do CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) na documentação do produto.

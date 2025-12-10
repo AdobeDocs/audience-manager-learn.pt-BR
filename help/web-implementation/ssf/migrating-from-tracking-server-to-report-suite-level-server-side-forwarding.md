@@ -8,10 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Se não tiver certeza se o [!DNL tracking server forwarding] está habilitado pa
 
 ## Encaminhamento pelo lado do servidor de nível [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Um dos maiores benefícios de mudar do encaminhamento de [!UICONTROL report suite] para o encaminhamento de [!UICONTROL tracking server] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta ao Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Veja mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=pt-BR).
+Um dos maiores benefícios de mudar do encaminhamento de [!UICONTROL report suite] para o encaminhamento de [!UICONTROL tracking server] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta ao Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Veja mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

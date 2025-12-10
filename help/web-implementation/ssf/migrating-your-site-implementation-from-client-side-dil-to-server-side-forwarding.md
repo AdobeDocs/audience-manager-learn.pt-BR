@@ -8,10 +8,10 @@ activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '2333'
 ht-degree: 0%
@@ -74,7 +74,7 @@ As etapas a seguir descrevem a implementação.
 
 O principal pré-requisito para migrar para o encaminhamento pelo lado do servidor é ter o Serviço da Experience Cloud ID implementado. Isso é feito com mais facilidade se você estiver usando o Experience Platform Launch, nesse caso, basta instalar a extensão ECID e ela fará o resto.
 
-Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
+Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Se você não estiver fazendo o encaminhamento de dados pelo lado do servidor do
 
 ![falso sucesso](assets/falsesuccess.png)
 
-Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=pt-BR).
+Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Se você for para o site de demonstração listado acima e observar a fonte da p
 * A camada de dados está no cabeçalho da página, antes da chamada para as tags da Platform
 * A JavaScript no link de SPA simulado altera a [!UICONTROL Data Layer] e, em seguida, chama as marcas da Platform (a chamada `_satellite.track()`). Se você estava usando eventos personalizados do JavaScript em vez deste [!UICONTROL Direct Call Rule], a lição é a mesma. Primeiro, altere o [!DNL data layer] e, em seguida, chame as tags da Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/34854/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Recursos adicionais {#additional-resources}
 

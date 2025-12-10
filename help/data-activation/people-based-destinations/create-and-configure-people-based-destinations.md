@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo primeiro fornece algumas informações sobre os pré-requisitos para criar o destino com base em Pessoas, e também mostra como configurar uma conta integrada (link para o parceiro, como o [!DNL Facebook]). Em seguida, ele o orienta pela configuração no produto do próprio destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/32074/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

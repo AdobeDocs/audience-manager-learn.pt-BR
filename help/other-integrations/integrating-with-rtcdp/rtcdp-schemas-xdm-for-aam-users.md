@@ -3,13 +3,13 @@ title: Noções básicas sobre esquemas e XDM na CDP em tempo real para usuário
 description: Ao migrar do Audience Manager para a Plataforma de dados do cliente em tempo real (CDP em tempo real), você encontrará alguns novos conceitos e práticas. Os esquemas e o XDM se encaixam nessa categoria. Este vídeo explica esses conceitos.
 feature: Experience Platform Integration
 topic: Integrations
-role: User, Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
 exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
-source-git-commit: 5c76721780ab46faec503db774928649e8274327
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 1%
@@ -20,12 +20,12 @@ ht-degree: 1%
 
 Ao migrar do Audience Manager para a Plataforma de dados do cliente em tempo real (CDP em tempo real), você encontrará alguns novos conceitos e práticas. Os esquemas e o XDM se encaixam nessa categoria. Este vídeo explica esses conceitos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418851/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
 
 ## Recursos adicionais
 
 Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre a Plataforma de dados do cliente em tempo real. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
-* [Noções básicas sobre o sistema XDM e o Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=pt-BR)
-* [Criar esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=pt-BR)
-* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=pt-BR#getting-started)
+* [Noções básicas sobre o sistema XDM e o Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [Criar esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+* [Criar um esquema usando o Editor de Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

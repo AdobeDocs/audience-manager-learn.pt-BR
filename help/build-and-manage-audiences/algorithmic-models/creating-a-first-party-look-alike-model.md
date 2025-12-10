@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a criar um modelo semelhante próprio, para encontrar mais de seus próprios visitantes que se parecem com seus conversores.
 
->[!VIDEO](https://video.tv.adobe.com/v/30831/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 Os casos de uso para isso incluem:
 
