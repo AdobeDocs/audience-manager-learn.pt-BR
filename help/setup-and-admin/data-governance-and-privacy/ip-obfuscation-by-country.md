@@ -23,4 +23,4 @@ O Audience Manager fornece o recurso de autoatendimento na interface do usuário
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Para obter mais informações sobre este recurso, consulte a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Para obter mais informações sobre este recurso, consulte a [documentação](https://experiencecloud.adobe.com/resources/help/pt_BR/aam/ip-obfuscation.html).

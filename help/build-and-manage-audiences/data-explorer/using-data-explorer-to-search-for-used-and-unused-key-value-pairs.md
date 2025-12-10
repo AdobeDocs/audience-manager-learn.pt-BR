@@ -26,4 +26,4 @@ No trabalho diário no Audience Manager, talvez seja necessário descobrir rapid
 
 Para descobrir se um sinal foi criado em uma característica, não é mais necessário baixar um arquivo BAAAM e também o relatório [!UICONTROL Unused Signals]. Agora você pode simplesmente pesquisar esse par de chave/valor no [!DNL Data Explorer], também conhecido como o Aplicativo [!UICONTROL Signals], no AAM, e encontrar pares de chave/valor que estejam em características e aquelas que não estejam, tudo na mesma lista. Excelente economia de tempo!
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=pt-BR)).

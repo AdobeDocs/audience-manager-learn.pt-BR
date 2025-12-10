@@ -24,4 +24,4 @@ Neste vídeo, você aprende por que e como usar o método `setCustomerIDs()` do 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=pt-BR).

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Tutoriais do Audience Manager
 
-Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais, juntamente com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), oferece um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o [!DNL data management platform], o melhor da Adobe.
+Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais, juntamente com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=pt-BR), oferece um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o [!DNL data management platform], o melhor da Adobe.
 
 * **Escolhas da equipe** destaca alguns de nossos conteúdos favoritos
 * Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
@@ -51,11 +51,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=pt-BR">
       <img alt="imagem em miniatura para o tutorial &quot;Entendendo os segmentos na Real-time CDP&quot;" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=pt-BR">
     <strong>Noções básicas de segmentos na CDP em tempo real para usuários do Audience Manager</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=pt-BR">
       <img alt="imagem em miniatura do tutorial &quot;Configurar e relatar públicos-alvo preditivos no Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=pt-BR">
     <strong>Configurar e relatar Predictive Audiences no Audience Manager</strong>
     </a>
     </div>

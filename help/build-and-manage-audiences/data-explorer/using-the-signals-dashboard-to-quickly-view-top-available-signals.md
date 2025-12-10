@@ -26,4 +26,4 @@ Ao usar tabelas integradas e personalizadas no [!UICONTROL Signals Dashboard] no
 
 Ao clicar para [!UICONTROL Data Explorer], também conhecido como o aplicativo [!UICONTROL Signals], você verá um painel padrão dos sinais principais, bem como novos sinais. Além desses dois padrões, você pode salvar pesquisas e adicioná-las ao painel, para que possa visualizar rapidamente seus dados mais importantes diretamente na página inicial do recurso.
 
-Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visite [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=pt-BR)).
