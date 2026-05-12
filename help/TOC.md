@@ -3,10 +3,12 @@ user-guide-title: Tutorials do Adobe Audience Manager
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutorials do Audience Manager
 solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 type: Tutorial
-source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
+source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: 1089
 ht-degree: 2%
 
 ---
@@ -28,8 +30,8 @@ ht-degree: 2%
    + [O futuro do gerenciamento de dados e do ambiente em mudança](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=pt-BR)
    + [10 considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=pt-BR)
    + [Os dois lados da moeda - marcas e consumidores](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=pt-BR)
-   + [Desenvolvendo seu Centro de Excelência para o Público](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=pt-BR)
-   + [Criando melhores experiências com perfis de clientes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=pt-BR)
+   + [Evolução do seu centro de excelência de público-alvo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=pt-BR)
+   + [Criar melhores experiências com perfis de clientes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=pt-BR)
 + Configuração e administração {#setup-and-admin}
    + Fontes de dados {#data-sources}
       + [Criar uma fonte de dados para dados do Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +48,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Atualização para o DIL versão 8.0 (ou superior)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (encaminhamento do lado do servidor) {#ssf}
-      + [Usar marcas Experience Platform para implementar em sites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
+      + [Usar tags do Experience Platform para implementar o em sites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
       + [Migrar a implementação do AAM do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migração do servidor de rastreamento para o encaminhamento do lado do servidor no nível do conjunto de relatórios](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Usar gerenciadores de tags para implementar o Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -57,7 +59,7 @@ ht-degree: 2%
    + [Etapas para assimilar dados baseados em arquivo](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementação móvel {#mobile-implementation}
    + [Implementar em aplicativos iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=pt-BR)
-   + [Implementar em aplicativos Objetive-C para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=pt-BR)
+   + [Implementar em aplicativos iOS Objetive-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=pt-BR)
    + [Implementar em aplicativos Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=pt-BR)
 + Audience Marketplace {#audience-marketplace}
    + Compra de dados {#buying-data}
