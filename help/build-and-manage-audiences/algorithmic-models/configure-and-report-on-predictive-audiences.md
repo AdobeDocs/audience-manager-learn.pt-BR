@@ -12,12 +12,9 @@ role: Admin
 level: Intermediate
 exl-id: 5c4f8b2e-b0ed-44b6-a19c-be5ea6312646
 TQID: https://experienceleague.adobe.com/Ku8-6WD3nE03DVvgabgOnjhHj-4VsJN7qmsb-gdKlr0
-product_v2:
-  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
 source-wordcount: 78
@@ -29,6 +26,6 @@ ht-degree: 0%
 
 Neste vídeo, abordaremos a configuração [!UICONTROL Predictive Audiences] na interface do Audience Manager. Também veremos os relatórios que mostram os resultados do modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/36941/?captions=por_br&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=pt-BR).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).

@@ -11,21 +11,11 @@ role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
-product_v2:
-  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2:
-  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
-  - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
-subfeature_v2:
-  - id: d8f681b8-67cc-42dc-85c5-a0977528a942
-  - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baaid: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+subfeature_v2: id: d8f681b8-67cc-42dc-85c5-a0977528a942id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
 source-wordcount: 788
@@ -105,13 +95,13 @@ Quando uma ID de dispositivo global incorreta (IDFA, GAID etc.) é enviada em te
 
 ![imagem de erro](assets/image_4_.png)
 
-Consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=pt-BR#api-and-sdk-code) para obter a lista de códigos de erro.
+Consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obter a lista de códigos de erro.
 
 ## IDs de dispositivo global integradas {#onboarding-global-device-ids}
 
-Além do envio em tempo real de IDs de dispositivos globais, você também pode &quot;[!DNL onboard]&quot; (carregar) dados contra as IDs. Esse processo é o mesmo de quando você está integrando dados nas IDs do cliente (normalmente por meio de pares de chave/valor), mas você simplesmente usaria as IDs da Data Source apropriadas, para que os dados sejam atribuídos à ID do dispositivo global. A documentação sobre o processo de integração pode ser encontrada na [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=pt-BR#implementation-integration-guides). Lembre-se de usar a ID da fonte de dados global, dependendo da plataforma que você está usando.
+Além do envio em tempo real de IDs de dispositivos globais, você também pode &quot;[!DNL onboard]&quot; (carregar) dados contra as IDs. Esse processo é o mesmo de quando você está integrando dados nas IDs do cliente (normalmente por meio de pares de chave/valor), mas você simplesmente usaria as IDs da Data Source apropriadas, para que os dados sejam atribuídos à ID do dispositivo global. A documentação sobre o processo de integração pode ser encontrada na [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Lembre-se de usar a ID da fonte de dados global, dependendo da plataforma que você está usando.
 
-Se IDs de Dispositivo Global incorretas forem enviadas por meio do processo de integração, os erros serão exibidos no [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=pt-BR#reporting).
+Se IDs de Dispositivo Global incorretas forem enviadas por meio do processo de integração, os erros serão exibidos no [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
 Veja a seguir um exemplo de erro que apareceria nesse relatório:
 
