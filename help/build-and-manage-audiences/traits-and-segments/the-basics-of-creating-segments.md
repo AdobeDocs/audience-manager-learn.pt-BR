@@ -31,6 +31,6 @@ ht-degree: 0%
 
 Percorra os campos na interface do usuário para criar um segmento no Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326729/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre segmentos, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=pt-BR).

@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Saiba como usar os relatórios de tendências no Audience Manager para ver como as características e os segmentos estão se saindo ao longo do tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341012/?captions=por_br&quality=12&learn=on)

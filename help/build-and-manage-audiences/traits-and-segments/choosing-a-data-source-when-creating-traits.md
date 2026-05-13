@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Um dos campos importantes a serem preenchidos ao criar características é o campo [!UICONTROL Data Source]. Obtenha dicas sobre como escolher a fonte de dados certa para características integradas e com base em regras.
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330134/?captions=por_br&quality=12&learn=on)

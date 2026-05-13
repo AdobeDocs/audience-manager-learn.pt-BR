@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Obtenha algumas dicas sobre como entender os números relatados para características na tela de informações de características.
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340526/?captions=por_br&quality=12&learn=on)
