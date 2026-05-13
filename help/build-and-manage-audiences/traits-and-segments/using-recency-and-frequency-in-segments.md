@@ -11,9 +11,13 @@ kt: 5866
 role: User
 level: Beginner
 exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
-source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
+TQID: https://experienceleague.adobe.com/UqD-ApjtzXBWaE40bliI-fSaOuD5Z9sqcmSIMkudAnA
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 0%
 
 ---
@@ -22,4 +26,4 @@ ht-degree: 0%
 
 Use [!UICONTROL Recency] e [!UICONTROL Frequency] para fornecer aos seus parâmetros de segmento quantas vezes um visitante precisa se qualificar para uma característica em um determinado período de tempo. Excelente para afinidade de conteúdo e casos de uso de limite de frequência, bem como outros.
 
->[!VIDEO](https://video.tv.adobe.com/v/327066/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
