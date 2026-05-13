@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Saiba como usar a visualização de código para definir segmentos, permitindo que você crie combinações de características complexas, incluindo o uso de recenticidade e frequência.
 
->[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326798/?captions=por_br&quality=12&learn=on)
