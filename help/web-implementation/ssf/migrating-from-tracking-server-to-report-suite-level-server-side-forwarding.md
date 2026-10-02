@@ -3,7 +3,7 @@ title: Migração do servidor de rastreamento para o encaminhamento do lado do s
 description: Saiba como habilitar o encaminhamento de dados do Adobe Analytics pelo lado do servidor para o Audience Manager em um nível de conjunto de relatórios, em vez de em um nível de servidor de rastreamento.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,25 +11,34 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+TQID: 'https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Measurement
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 608
+source-wordcount: '608'
 ht-degree: 0%
-
 ---
-
 # Migração do servidor de rastreamento para o encaminhamento do lado do servidor no nível do conjunto de relatórios {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
 Este artigo e vídeo mostrarão como habilitar o encaminhamento pelo lado do servidor de dados do [!DNL Analytics] para o Audience Manager no nível [!UICONTROL report suite] em vez de no nível [!UICONTROL tracking server].
@@ -52,7 +61,7 @@ Se não tiver certeza se o [!DNL tracking server forwarding] está habilitado pa
 
 ## Encaminhamento pelo lado do servidor de nível [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Um dos maiores benefícios de mudar do encaminhamento de [!UICONTROL tracking server] para o encaminhamento de [!UICONTROL report suite] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta ao Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Veja mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=pt-BR).
+Um dos maiores benefícios de mudar do encaminhamento de [!UICONTROL tracking server] para o encaminhamento de [!UICONTROL report suite] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta ao Adobe Analytics para análise detalhada de segmentos. Este excelente recurso NÃO terá suporte se você ainda estiver no encaminhamento do [!UICONTROL tracking server] e não no encaminhamento do [!UICONTROL report suite]. Veja mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

@@ -3,7 +3,7 @@ title: Migrar a implementação do Audience Manager do seu site do DIL do lado d
 description: Saiba como migrar a implementação do Audience Manager (AAM) do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor. Este tutorial se aplica se você tiver o AAM e o Adobe Analytics, se enviar ocorrências da página para o AAM usando o código do DIL (Data Integration Library) e se também enviar ocorrências da página para o Adobe Analytics.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # Migrar a implementação do Audience Manager do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-Este tutorial se aplica se você tiver o Adobe Audience Manager (AAM) e o Adobe Analytics e estiver enviando uma ocorrência da página para o AAM usando o código do DIL ([!DNL Data Integration Library]) e também uma ocorrência da página para o Adobe Analytics. Como essas duas soluções existem e ambas fazem parte da Adobe Experience Cloud, você tem a oportunidade de seguir a prática recomendada de ativação do encaminhamento pelo lado do servidor, que permite que os servidores de coleta de dados do [!DNL Analytics] encaminhem dados de análise do site em tempo real para o Audience Manager, em vez de fazer com que o código do lado do cliente envie uma ocorrência adicional da página para o AAM. Este tutorial percorre as etapas para fazer a mudança da implementação mais antiga do DIL do lado do cliente para o método mais recente de encaminhamento do lado do servidor.
+Este tutorial se aplica se você tiver o Adobe Audience Manager (AAM) e o Adobe Analytics e estiver enviando uma ocorrência da página para o AAM usando o código do DIL ([!DNL Data Integration Library]) e também uma ocorrência da página para o Adobe Analytics. Como essas duas soluções existem e ambas fazem parte da Adobe Experience Cloud, você tem a oportunidade de seguir a prática recomendada de ativar o encaminhamento pelo lado do servidor, o que permite que os servidores de coleta de dados do [!DNL Analytics] encaminhem dados de análise do site em tempo real para o Audience Manager, em vez de fazer com que o código do lado do cliente envie uma ocorrência adicional da página para o AAM. Este tutorial percorre as etapas para fazer a mudança da implementação mais antiga do DIL do lado do cliente para o método mais recente de encaminhamento do lado do servidor.
 
 ## Lado do cliente (DIL) vs. lado do servidor {#client-side-dil-vs-server-side}
 
@@ -88,11 +101,11 @@ Examinaremos cada um desses itens abaixo na seção _Atualizando o código_.
 
 As etapas a seguir descrevem a implementação.
 
-### Etapa 0: Pré-requisito: Experience Cloud ID Service (ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
+### Etapa 0: Pré-requisito: Serviço da Experience Cloud ID (ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
 
 O principal pré-requisito para migrar para o encaminhamento pelo lado do servidor é ter o Serviço da Experience Cloud ID implementado. Isso é feito com mais facilidade se você estiver usando o Experience Platform Launch, nesse caso, basta instalar a extensão ECID e ela fará o resto.
 
-Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
+Se você estiver usando um TMS que não seja da Adobe ou nenhum TMS, implemente a ECID para executar **antes** qualquer outra solução da Adobe. Consulte a [documentação da ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obter mais detalhes. O único outro pré-requisito é relacionado às versões de código. Portanto, como você simplesmente aplica as versões mais recentes do código nas etapas a seguir, tudo ficará bem.
 
 >[!NOTE]
 >
@@ -130,7 +143,7 @@ Até agora, neste tutorial, gastamos todo o nosso tempo na alternância do códi
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**OBSERVAÇÃO:** Conforme dito no vídeo, lembre-se de que levará até 4 horas para que a ativação do encaminhamento seja totalmente implementada no back-end do Experience Cloud.
+**OBSERVAÇÃO:** Conforme dito no vídeo, lembre-se de que levará até 4 horas para que a ativação do encaminhamento seja totalmente implementada no back-end da Experience Cloud.
 
 ## Tempo {#timing}
 
@@ -145,7 +158,7 @@ Mas a questão é, qual você faz primeiro? Isso importa? OK, desculpe, foram du
 
 O motivo pelo qual o tempo e a ordem são importantes é por causa de como o encaminhamento _realmente_ funciona, que pode ser resumido nos seguintes fatos técnicos:
 
-* Se você tiver o Experience Cloud ID Service (ECID) implementado e a opção no [!DNL Analytics] [!DNL Admin Console] (&quot;a opção&quot;) estiver ativada, os dados SERÃO encaminhados do [!DNL Analytics] para a AAM, mesmo que você ainda não tenha atualizado o código.
+* Se você tiver o Serviço da Experience Cloud ID (ECID) implementado e a opção no [!DNL Analytics] [!DNL Admin Console] (&quot;a opção&quot;) estiver ativada, os dados SERÃO encaminhados do [!DNL Analytics] para a AAM, mesmo que você ainda não tenha atualizado o código.
 * Se você não tiver a ECID implementada, os dados não serão encaminhados, mesmo se o switch estiver ativado e o código de encaminhamento do lado do servidor estiver instalado.
 * O código de encaminhamento do lado do servidor (seja nas tags da Platform ou na página) realmente lida com a resposta e é necessário para concluir a migração.
 * Lembre-se de que a opção de encaminhamento pelo lado do servidor está habilitada pelo [!UICONTROL report suite], mas que o código é manipulado pela propriedade nas tags da Platform, ou pelo arquivo [!DNL AppMeasurement] se você não usar tags da Platform.
@@ -220,4 +233,4 @@ Se você não estiver fazendo o encaminhamento de dados pelo lado do servidor do
 
 ![falso sucesso](assets/falsesuccess.png)
 
-Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=pt-BR).
+Para obter mais informações sobre o encaminhamento pelo lado do servidor, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
