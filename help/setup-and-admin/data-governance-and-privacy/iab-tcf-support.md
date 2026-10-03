@@ -7,25 +7,38 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 0%
-
 ---
-
 # Suporte IAB TCF 2.2 no Audience Manager {#iab-tcf-support-in-audience-manager}
 
 O Adobe fornece o meio de gerenciar e comunicar as opções de privacidade de seus usuários por meio da funcionalidade de aceitação e pelo plug-in do Audience Manager para o suporte à Estrutura de transparência e consentimento 2.2 (TCF 2.2) do IAB. Este artigo trabalha em conjunto com a documentação para ajudar você a entender o Plug-in do Audience Manager para a TCF do IAB e como ele funciona em conjunto com o objeto de Opt-in da Adobe e seu Provedor de gerenciamento de consentimento (CMP). Para saber mais sobre o IAB, visite o site em [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
@@ -46,7 +59,7 @@ Habilitar o Plug-in do Audience Manager para a TCF do IAB é fácil se você est
 
 >[!VIDEO](https://video.tv.adobe.com/v/38263/?captions=por_br&quality=12)
 
-Como alternativa, se você não estiver usando o Launch, poderá usar `isIabContext=true` para habilitá-lo quando instanciar o Visitante do Experience Cloud. Isso inicia o fluxo da TCF do IAB, ou seja, adiciona outra etapa para a coleta de consentimento, usando a TCF do IAB para consultar a cadeia de caracteres da TC do IAB e a fornece de volta ao Opt-in, que, por sua vez, se comunica com as soluções da Experience Cloud.
+Como alternativa, se você não estiver usando o Launch, poderá usar `isIabContext=true` para habilitá-lo quando instanciar o Visitante da Experience Cloud. Isso inicia o fluxo da TCF do IAB, ou seja, adiciona outra etapa para a coleta de consentimento, usando a TCF do IAB para consultar a cadeia de caracteres da TC do IAB e a fornece de volta ao Opt-in, que, por sua vez, se comunica com as soluções da Experience Cloud.
 
 ## Sequência de caracteres IAB TC {#iab-tcf-consent-string}
 
@@ -79,7 +92,7 @@ Outra parte da cadeia de caracteres IAB TC é uma longa lista de várias centena
 
 Um dos benefícios de usar a TCF do IAB é que as finalidades padrão listadas acima provavelmente dão ao usuário final mais uma ideia do que estão aprovando do que uma lista de soluções da Adobe. Os usuários finais podem não saber o que significa &quot;aprovar&quot; o Audience Manager ou o [!DNL Target], mas &quot;armazenar e/ou acessar informações em um dispositivo&quot; ou &quot;desenvolver e melhorar produtos&quot; provavelmente é mais fácil de entender e consentir.
 
-Para que o Audience Manager seja aprovado (ou seja, Para que a tradução das finalidades do IAB para Opt-in dê um voto &quot;sim&quot; ao AAM, as finalidades 1 e 10, conforme listadas acima, precisam receber o consentimento do usuário final. Se qualquer uma dessas opções não for aprovada ou se um fornecedor não for aprovado, o AAM não executará disparos de pixels nem definirá cookies. Também é bom saber que muitos clientes simplesmente optam por fornecer ao usuário final uma interface do usuário &quot;tudo ou nada&quot;, o que, é claro, permitiria ou proibiria o uso do Audience Manager (e de outras soluções da Experience Cloud).
+Para que o Audience Manager seja aprovado (ou seja, Para que a tradução das finalidades do IAB para Opt-in dê um voto &quot;sim&quot; ao AAM, as finalidades 1 e 10, conforme listadas acima, precisam receber o consentimento do usuário final. Se qualquer uma dessas opções não for aprovada ou se um fornecedor não for aprovado, o AAM não executará disparos de pixels nem definirá cookies. Também é bom saber que muitos clientes simplesmente optam por fornecer ao usuário final uma interface do usuário &quot;tudo ou nada&quot;, o que, é claro, permitiria ou proibiria o uso do Audience Manager (e das outras soluções da Experience Cloud).
 
 Há algumas informações excelentes na [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=pt-BR) sobre como o plug-in do Audience Manager para o fluxo da TCF do IAB se aplica aos casos de uso do Editor e do Anunciante.
 
