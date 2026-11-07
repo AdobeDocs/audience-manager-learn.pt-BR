@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Obtenha dicas sobre como criar as estruturas de pastas que mantêm suas características no Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507674/?captions=por_br&quality=12&learn=on)

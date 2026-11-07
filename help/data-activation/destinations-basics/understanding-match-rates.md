@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Este vídeo ajuda você a entender as Taxas de correspondência no Adobe Audience Manager, o que elas são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507448/?captions=por_br&quality=12)
 
 Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=pt-BR).

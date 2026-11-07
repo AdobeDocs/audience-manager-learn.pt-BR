@@ -46,4 +46,4 @@ ht-degree: 0%
 
 Durante esta sessão, explicaremos o que é uma DMP e apresentaremos alguns estudos de caso reais, onde os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507555/?captions=por_br&quality=12)
