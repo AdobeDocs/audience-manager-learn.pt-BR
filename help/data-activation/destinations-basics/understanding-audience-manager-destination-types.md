@@ -41,7 +41,7 @@ ht-degree: 0%
 
 Este vídeo o orienta pelos diferentes tipos de destinos no Adobe Audience Manager e fornece exemplos de quando você usaria cada um deles.
 
->[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507792/?captions=por_br&quality=12)
 
 Você pode ver uma lista de parceiros de destino de servidor para servidor disponíveis na [documentação de Destinos com base em dispositivo do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=pt-BR).
 

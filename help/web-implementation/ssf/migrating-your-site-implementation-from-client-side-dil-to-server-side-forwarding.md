@@ -141,7 +141,7 @@ Assista ao vídeo abaixo para saber mais sobre como mover opções de implementa
 
 Até agora, neste tutorial, gastamos todo o nosso tempo na alternância do código do DIL do lado do cliente para o encaminhamento do lado do servidor. Isso é bom, porque é a parte mais difícil. Esta seção, embora você queira vê-la como super fácil, é tão importante quanto atualizar o código. Neste vídeo, você verá como inverter a opção que permite o encaminhamento real de dados do Analytics para o Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507521/?captions=por_br&quality-12)
 
 **OBSERVAÇÃO:** Conforme dito no vídeo, lembre-se de que levará até 4 horas para que a ativação do encaminhamento seja totalmente implementada no back-end da Experience Cloud.
 
@@ -222,7 +222,7 @@ A forma principal de validar que o encaminhamento pelo lado do servidor está em
 
 Se você não estiver fazendo o encaminhamento de dados pelo lado do servidor do [!DNL Analytics] para o Audience Manager, então não há resposta para o sinal do [!DNL Analytics] (fora um pixel com dimensões 2x2). No entanto, se você estiver fazendo o encaminhamento pelo lado do servidor, há itens que você pode verificar na solicitação e resposta do [!DNL Analytics] que informam que o [!DNL Analytics] está se comunicando corretamente com o Audience Manager, encaminhando a ocorrência e obtendo uma resposta.
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507421/?captions=por_br&quality=12)
 
 >[!WARNING]
 >

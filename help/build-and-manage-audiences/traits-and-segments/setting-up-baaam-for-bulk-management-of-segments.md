@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba mais sobre o BAAAM, a ferramenta de gerenciamento em massa para características e segmentos no Audience Manager, incluindo como configurá-lo para se preparar para uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507376/?captions=por_br&quality=12&learn=on)
